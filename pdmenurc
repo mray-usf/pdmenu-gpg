@@ -11,6 +11,7 @@ menu:main:Main Menu
         exec:_list secret keys::gpg --list-secret-keys && sleep 5
         exec:_list secret key fingerprint::gpg --with-fingerprint --list-secret-key && sleep 5
         exec:_view gpg.conf::less ~/.gnupg/gpg.conf
+        exec:_OpenPGP Best Practices::lynx https://help.riseup.net/en/security/message-security/openpgp/best-practices
         #exec:_send keys:s:gpg --send-keys 
 	#exec:_Directory listing:display:ls -l
 	#exec:_Change directory:edit,setenv:echo PWD=~set to?:~
