@@ -16,3 +16,9 @@ $pdmenu pdmenurc
 INSTALL
 
 If you like it, you can move it to ~/.pdmenurc 
+
+RECOMMENDED PROGRAM DEPENDENCIES
+
+rng-tools (for generating keys)
+gnupg-curl 
+hopenpgp-tools 
