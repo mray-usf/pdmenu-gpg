@@ -13,4 +13,6 @@ You can test the pdmenurc with:
 
 $pdmenu pdmenurc 
 
+INSTALL
+
 If you like it, you can move it to ~/.pdmenurc 
