@@ -26,3 +26,4 @@ RECOMMENDED PROGRAM DEPENDENCIES
 * rng-tools 
 * gnupg-curl 
 * hopenpgp-tools 
+* parcimonie 
